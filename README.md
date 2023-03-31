@@ -1,4 +1,4 @@
-#Custom API Endpoint plugin#
+# Custom API Endpoint plugin
 
 This plugin create a custom API endpoint for last 5 posts with the post type "Portfolio". API response consists of
 - ID
