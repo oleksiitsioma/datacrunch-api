@@ -8,3 +8,11 @@ This plugin create a custom API endpoint for last 5 posts with the post type "Po
 - Skills (Terms of custom taxonomy)
 
 At this point authentification is disabled, so the API will work every time.
+
+## nstallation
+
+Install plugin using the default WordPress Installer.
+
+## Links
+
+[Github Repo](https://github.com/oleksiitsioma/datacrunch-api)
