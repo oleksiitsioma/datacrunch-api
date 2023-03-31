@@ -9,7 +9,7 @@ This plugin create a custom API endpoint for last 5 posts with the post type "Po
 
 At this point authentification is disabled, so the API will work every time.
 
-## nstallation
+## Installation
 
 Install plugin using the default WordPress Installer.
 
